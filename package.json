@@ -1,0 +1,24 @@
+{
+  "name": "code-pen-clone",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "@codemirror/highlight": "^0.19.8",
+    "@codemirror/lang-css": "^6.3.1",
+    "@codemirror/lang-html": "^6.4.9",
+    "@codemirror/lang-javascript": "^6.2.4",
+    "@codemirror/language": "^6.11.1",
+    "@codemirror/view": "^6.37.2",
+    "codemirror": "^6.0.2",
+    "split-grid": "^1.0.11"
+  }
+}
